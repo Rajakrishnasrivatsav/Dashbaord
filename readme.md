@@ -88,8 +88,8 @@ The Candidates Dashboard project is a full‑stack demo that:
 1. **Clone the Repository:**  
    Clone the project repository to your local machine.
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Rajakrishnasrivatsav/Dashbaord
+   cd Dashboard
    ```
 
 2. **Create a Virtual Environment:**  
